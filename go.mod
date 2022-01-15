@@ -18,7 +18,7 @@ require (
 	github.com/99designs/gqlgen v0.10.1
 	github.com/astaxie/beego v1.12.0
 	github.com/emicklei/go-restful v2.11.1+incompatible
-	github.com/gin-gonic/gin v1.4.0
+	github.com/gin-gonic/gin v1.7.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/protobuf v1.3.3
 	github.com/google/uuid v1.1.1
